@@ -1,0 +1,36 @@
+D:\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Calculator\CalculatorTester\bin\Debug\CalculatorTester.dll
+D:\Calculator\CalculatorTester\bin\Debug\CalculatorTester.pdb
+D:\Calculator\CalculatorTester\bin\Debug\Calculator.exe
+D:\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Calculator\CalculatorTester\bin\Debug\Calculator.pdb
+D:\Calculator\CalculatorTester\bin\Debug\Calculator.exe.config
+D:\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.AssemblyReference.cache
+D:\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CoreCompileInputs.cache
+D:\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
+D:\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
+D:\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb
+D:\Calculator\CalculatorTester\bin\Debug\data\Testdataradix.csv
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\data\Testdataradix.csv
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\CalculatorTester.dll
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\CalculatorTester.pdb
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\Calculator.exe
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\Calculator.pdb
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\Calculator.exe.config
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.AssemblyReference.cache
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CoreCompileInputs.cache
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
+E:\KIỂM THỬ PHẦN MỀM\Calculator\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb
